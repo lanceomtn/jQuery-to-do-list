@@ -1,8 +1,9 @@
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #dfdfdf;
+background:#9FC5E8;
 }
 
 .container{
@@ -23,7 +24,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#cc0000;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
